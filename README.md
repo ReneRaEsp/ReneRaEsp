@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm René Ramirez</h1>
-<h3 align="center">A passionate full-stack developer from Venezuela  🇻🇪 and i am a Dreamer 💭</h3>
+<h3 align="center">A passionate full-stack developer from Venezuela  🇻🇪 and a Dreamer 💭</h3>
 
 - 👨‍💻 Some of my projects are available at [https://reneraesp.github.io](https://reneraesp.github.io)
 
